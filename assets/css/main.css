@@ -1,0 +1,154 @@
+body {
+  position: relative;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; }
+
+#home {
+  padding-top: 50px;
+  height: 750px;
+  color: #fff;
+  background-color: #1E88E5; }
+
+#services {
+  padding-top: 50px;
+  height: 750px;
+  color: black;
+  background-color: white; }
+
+#aboutus {
+  padding-top: 50px;
+  height: 750px;
+  color: #fff;
+  background-color: #ff9800; }
+
+#contactus {
+  padding-top: 50px;
+  height: 750px;
+  color: #fff;
+  background-color: #262626; }
+
+#gallery {
+  padding-top: 50px;
+  height: 750px;
+  color: #fff;
+  background-color: #1a53ff; }
+
+.home #resize {
+  width: 100%;
+  height: 400px; }
+.home h1 {
+  text-align: center; }
+.home .carousel-caption {
+  color: orange; }
+
+.services h1 {
+  text-align: center; }
+.services .box, .services .box-content-one, .services .box-content-two, .services .box-content-three {
+  background-color: #f2f2f2;
+  border-top: 1px solid #DFDFDF;
+  border-left: 1px solid #ECECEC;
+  border-radius: 8px;
+  border-right: 1px solid #ECECEC;
+  box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.4);
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  min-height: 100px;
+  position: relative;
+  text-align: center;
+  display: inline-block;
+  z-index: 1; }
+.services .icon, .services .icon-one, .services .icon-two, .services .icon-three {
+  border-radius: 100%;
+  color: #FFF;
+  font-size: 40px;
+  line-height: 110px;
+  margin: 25px 0;
+  padding: 0px;
+  display: inline-block;
+  width: 110px;
+  height: 110px; }
+.services .box-content-one {
+  border-bottom: 3px solid #ff751a;
+  border-bottom-width: 4px;
+  padding: 30px 30px 10px 30px; }
+  .services .box-content-one h4 {
+    color: #ff751a;
+    font-size: 1.3em;
+    font-weight: 400;
+    letter-spacing: -0.7px;
+    margin-top: 5px;
+    text-transform: uppercase; }
+  .services .box-content-one p {
+    color: black; }
+.services .box-content-two {
+  border-bottom: 3px solid #33cc33;
+  border-bottom-width: 4px;
+  padding: 30px 30px 10px 30px; }
+  .services .box-content-two h4 {
+    color: #33cc33;
+    font-size: 1.3em;
+    font-weight: 400;
+    letter-spacing: -0.7px;
+    margin-top: 5px;
+    text-transform: uppercase; }
+  .services .box-content-two p {
+    color: black; }
+.services .box-content-three {
+  border-bottom: 3px solid #0000e6;
+  border-bottom-width: 4px;
+  padding: 30px 30px 10px 30px; }
+  .services .box-content-three h4 {
+    color: #0000e6;
+    font-size: 1.3em;
+    font-weight: 400;
+    letter-spacing: -0.7px;
+    margin-top: 5px;
+    text-transform: uppercase; }
+  .services .box-content-three p {
+    color: black; }
+.services .icon-one {
+  background-color: #ff751a; }
+.services .icon-two {
+  background-color: #33cc33; }
+.services .icon-three {
+  background-color: #0000e6; }
+
+.aboutus {
+  font-size: 15px; }
+  .aboutus h1 {
+    text-align: center; }
+  .aboutus strong {
+    color: black; }
+
+.contactus {
+  font-family: Verdana, Geneva, sans-serif; }
+  .contactus h1 {
+    text-align: center; }
+  .contactus form {
+    margin: auto;
+    margin-top: 50px;
+    width: 60%; }
+  .contactus .container {
+    color: #a6a6a6;
+    padding: 50px;
+    padding-left: 127px;
+    padding-right: 85px; }
+    .contactus .container .btn {
+      border-radius: 100%;
+      width: 40px; }
+
+.gallery {
+  font-family: Verdana, Geneva, sans-serif; }
+  .gallery h1 {
+    text-align: center; }
+  .gallery .container {
+    margin-top: 50px; }
+  .gallery .thumb {
+    margin-bottom: 30px; }
+    .gallery .thumb .thumbnail {
+      box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.6); }
+      .gallery .thumb .thumbnail .caption {
+        text-align: center; }
+
+/*# sourceMappingURL=main.css.map */

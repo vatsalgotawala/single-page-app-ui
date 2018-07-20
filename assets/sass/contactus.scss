@@ -1,0 +1,23 @@
+.contactus {
+	font-family: Verdana, Geneva, sans-serif;
+
+	h1 {
+		text-align: center;
+	}
+	form {
+		margin: auto;
+		margin-top: 50px;
+		width: 60%;
+	}
+	.container {
+		color: #a6a6a6;
+		padding: 50px;
+		padding-left: 127px;
+		padding-right: 85px;
+
+		.btn {
+			border-radius: 100%;
+			width: 40px;
+		}
+	}
+}
